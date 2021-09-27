@@ -13,3 +13,5 @@ After uploading the first version to a web accessibility checker
 The web checker also pointed out the alt-text to our images, saying the image may contain text that is not in alt-text. I find that strange, because I could not figure out what else I could’ve written as my alt-text to solve the problem. I’ve worked with SEO before and the alt-text can basically be whatever you want it to be, as long as it has a context with the image and you make sure it can optimize the SEO, which is more a test-and-fail method.  
 
 Therefore, we chose not to do a second version because we didn’t find the potential problems necessary to do a second version. 
+
+https://a-sena.github.io/oblig1-website/
